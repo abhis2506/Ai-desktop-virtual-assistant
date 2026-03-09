@@ -50,6 +50,6 @@ os
 
 
 #Output
-![image](open google.jpg)
+![image](https://github.com/abhis2506/Ai-desktop-virtual-assistant/blob/main/open%20google.jpg)
 
 pywhatkit
