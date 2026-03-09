@@ -50,6 +50,6 @@ os
 
 
 #Output
-![image](https://github.com/username/repo/assets/12345/image.png)
+![image](open google.jpg)
 
 pywhatkit
