@@ -50,7 +50,7 @@ os
 
 
 #Output
-![Screenshot (495)]([https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e](https://github.com/abhis2506/Ai-desktop-virtual-assistant/blob/main/open%20google.jpg))
+![Screenshot (495)](open google.jpg))
 ![Screenshot (495)]([https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e](https://github.com/abhis2506/Ai-desktop-virtual-assistant/blob/main/open%20google.jpg))
 
 pywhatkit
