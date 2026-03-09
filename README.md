@@ -1,5 +1,57 @@
-Built a Python-based AI Virtual Assistant with Tkinter GUI for interactive voice and text communication.
+AI Desktop Virtual Assistant
 
-Enabled real-time speech-to-text and text-to-speech functionality using speech_recognition and pyttsx3.
+An AI Desktop Virtual Assistant is a software application that helps users perform everyday computer tasks using voice commands and natural language processing. The assistant can open applications, search the internet, provide information, automate tasks, and interact with the user through voice responses.
 
-Integrated system and web features: open applications, browse websites, play music, and fetch system time.
+Features
+
+Voice command recognition
+
+Text-to-speech responses
+
+Open desktop applications (browser, notepad, calculator, etc.)
+
+Web searching
+
+Time and date information
+
+Weather updates
+
+Play music or videos
+
+Send emails
+
+System automation tasks
+
+Conversational interaction with the user
+
+Technologies Used
+
+Python
+
+Speech Recognition
+
+Text-to-Speech (TTS)
+
+Natural Language Processing (NLP)
+
+APIs for web services
+
+Python Libraries
+
+speech_recognition
+
+pyttsx3
+
+datetime
+
+webbrowser
+
+os
+
+
+#Output
+![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
+
+wikipedia
+
+pywhatkit
